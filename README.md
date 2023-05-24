@@ -29,14 +29,17 @@ __Dataset Details__
 
 1. Concrete Bridge Walls:
 a) 3,851 cracked images
+
 b) 143,000 non-cracked images
 
 2. Concrete Bridge Pavements:
 a) 2,608 cracked images
+
 b) 217,000 non-cracked images
 
 3. Concrete Bridge Decks:
 a) 2,025 cracked images
+
 b) 116,000 non-cracked images
 
 __Model Selection__
