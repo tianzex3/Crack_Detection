@@ -6,6 +6,7 @@ In civil structures, cracks on concrete or infrastructure surfaces pose a signif
 This project aims to utilize deep learning image classification models to identify cracks in different types of material surfaces. Two datasets have been collected for this purpose, each with its own characteristics.
 
 ## Dataset I: Surface Photos for Single Material Cracks
+https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
 This dataset consists of surface photos of cracks in a single material. The dataset is well-balanced, with an equal number of positive and negative cases.
 
 ### Dataset Details
@@ -21,6 +22,7 @@ For Dataset I, a Convolutional Neural Network (CNN) has been chosen as the deep 
 - Grey scale data is sufficient for this dataset
 
 ## Dataset II: Surface Photos for Multiple Materials
+https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concrete-crack-images
 This dataset consists of surface photos of cracks in multiple materials, specifically concrete bridge walls, pavements, and decks. The dataset is characterized by extreme class imbalance and unclear labeling of positive and negative cases.
 
 ### Dataset Details
