@@ -1,4 +1,5 @@
 # Automated Crack Detection in Civil Structures
+![image](https://github.com/tianzex3/Crack_Detection/assets/90085137/840127d8-9222-4874-b472-e3d2767e8ca2)
 
 ## Overview
 In civil structures, cracks on concrete or infrastructure surfaces pose a significant threat as they compromise the rigidity and tensile strength of buildings. Building inspection plays a crucial role in evaluating the health of a structure, and crack detection is an essential part of this process. However, manual identification of cracks is time-consuming and prone to human error. To address this challenge, an automated system is required to accurately detect and classify cracks in concrete surfaces, enabling efficient building inspections and facilitating the assessment of building health.
