@@ -8,7 +8,7 @@ This project aims to utilize deep learning image classification models to identi
 # Dataset I: Surface Photos for Single Material Cracks
 This dataset consists of surface photos of cracks in a single material. The dataset is well-balanced, with an equal number of positive and negative cases.
 
-# Dataset Details
+__Dataset Details__
 1. 20,000 images of surface cracks with dimensions 227 x 227 pixels and RGB channels
 2. 20,000 images of non-cracked surfaces with dimensions 227 x 227 pixels and RGB channels
 3. The surface cracks images are retrieved from various civil structures.
@@ -37,7 +37,7 @@ b) 217,000 non-cracked images
 a) 2,025 cracked images
 b) 116,000 non-cracked images
 
-# Model Selection
+__Model Selection__
 For Dataset II, the VGG16 (Very Deep Convolutional Networks for Large-Scale Image Recognition) architecture has been chosen as the deep learning image classification model. The decision to use VGG16 is based on its superior capabilities due to its pre-trained nature. VGG16 has been pre-trained on large-scale image classification tasks, including the ImageNet dataset. This pre-training enables the network to learn general features from a diverse set of images, making it well-suited for crack detection in the multiple materials dataset.
 
 # Conclusion
