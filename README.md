@@ -14,6 +14,7 @@ __Dataset Details__
 3. The surface cracks images are retrieved from various civil structures.
 
 __Model Selection__
+
 For Dataset I, a Convolutional Neural Network (CNN) has been chosen as the deep learning image classification model. The decision to use CNN is based on the following reasons:
 
 1. High accuracy in detecting cracks
@@ -25,6 +26,7 @@ For Dataset I, a Convolutional Neural Network (CNN) has been chosen as the deep 
 This dataset consists of surface photos of cracks in multiple materials, specifically concrete bridge walls, pavements, and decks. The dataset is characterized by extreme class imbalance and unclear labeling of positive and negative cases.
 
 __Dataset Details__
+
 1. Concrete Bridge Walls:
 a) 3,851 cracked images
 b) 143,000 non-cracked images
